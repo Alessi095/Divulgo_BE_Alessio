@@ -1,3 +1,7 @@
+## Develop 
+```bash
+Ognuno sviluppi su una branch propria così da non incasinare la master
+```
 ## Installation
 
 ```bash
